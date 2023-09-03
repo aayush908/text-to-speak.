@@ -13,7 +13,7 @@ l = ["manjeet" , "kandari" ,"mayank" , "bassi"]
 for l1 in l:
 
 
-	s = f"kyaa haal hai gaandu {l1}"
+	s = f"kyaa haal hai  {l1}"
 	speaker.Speak(s)
 
 # To stop the program press
